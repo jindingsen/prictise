@@ -16,7 +16,8 @@ GoGoCode is a transformer for JavaScript/Typescript/HTML based on AST but provid
 Learn more at [GoGoCode Document](https://github.com/thx/gogocode/blob/main/docs/specification/basic.en.md) 
 
 ## Intro
-这是b分支里面修改的内容
+这是ab分支共同里面修改的内容
+
 Let's show you how to select and modify code with our API
 
 ### In
